@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=seqre&rank_icon=percentile&show_icons=true&line_height=20)](https://seqre.dev)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=seqre&hide=jupyter+notebook&layout=compact)](https://seqre.dev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=seqre&hide=jupyter+notebook&layout=compact&size_weight=0.75&count_weight=0.25)](https://seqre.dev)
